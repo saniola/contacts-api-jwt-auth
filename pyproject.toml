@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "Contacts"
-version = "0.2.0"
-description = "Contacts app"
+name = "contacts-api-jwt-auth"
+version = "0.1.0"
+description = "REST API for managing personal contacts with JWT authentication"
 authors = ["Alex Kydanov <a.kidanov@gmail.com>"]
 
 [tool.poetry.dependencies]
